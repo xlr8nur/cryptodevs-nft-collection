@@ -1,0 +1,1 @@
+"# cryptodevs-nft-collection"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/thecodingliva/cryptodevs-nft-collection.gitgit push -u origin main
